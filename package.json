@@ -1,0 +1,16 @@
+{
+  "name": "csv-generator",
+  "version": "1.0.0",
+  "description": "CSV file generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cesar Alvernaz <cesar@livesense.com.au> (https://weirdloop.org)",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "1.0.1",
+    "dateformat": "1.0.12",
+    "randomstring": "1.1.4"
+  }
+}
